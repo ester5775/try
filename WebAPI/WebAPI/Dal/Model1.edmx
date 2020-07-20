@@ -1,0 +1,682 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="DataModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Address">
+          <Key>
+            <PropertyRef Name="AddressId" />
+          </Key>
+          <Property Name="AddressId" Type="int" Nullable="false" />
+          <Property Name="Country" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="City" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="Neighbourhood" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="Street" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="HouseNumber" Type="nchar" MaxLength="20" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Category">
+          <Key>
+            <PropertyRef Name="CategoryId" />
+          </Key>
+          <Property Name="CategoryId" Type="int" Nullable="false" />
+          <Property Name="CategoryName" Type="nchar" MaxLength="30" Nullable="false" />
+          <Property Name="BasicCategoryId" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Client">
+          <Key>
+            <PropertyRef Name="ClientId" />
+          </Key>
+          <Property Name="ClientId" Type="int" Nullable="false" />
+          <Property Name="Password" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="FirstName" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="LastName" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="AddressId" Type="int" Nullable="false" />
+          <Property Name="PhoneNumber" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="Email" Type="nchar" MaxLength="20" Nullable="false" />
+        </EntityType>
+        <EntityType Name="DescriptionOfItem">
+          <Key>
+            <PropertyRef Name="DescriptionOfItemId" />
+          </Key>
+          <Property Name="DescriptionOfItemId" Type="int" Nullable="false" />
+          <Property Name="ItemId" Type="int" Nullable="false" />
+          <Property Name="FieldName" Type="nvarchar" MaxLength="30" Nullable="false" />
+          <Property Name="KindOfFieldId" Type="int" Nullable="false" />
+          <Property Name="MainDescription" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="DescriptionOfItemInStock">
+          <Key>
+            <PropertyRef Name="DescriptionOfItemInStockId" />
+          </Key>
+          <Property Name="DescriptionOfItemInStockId" Type="int" Nullable="false" />
+          <Property Name="DescriptionOfItemId" Type="int" Nullable="false" />
+          <Property Name="ItemInStockId" Type="int" Nullable="false" />
+          <Property Name="Value" Type="nvarchar" MaxLength="30" Nullable="false" />
+        </EntityType>
+        <EntityType Name="DetailingOfValues">
+          <Key>
+            <PropertyRef Name="DetailingOfValuesId" />
+          </Key>
+          <Property Name="DetailingOfValuesId" Type="int" Nullable="false" />
+          <Property Name="DescriptionOfItemId" Type="int" Nullable="false" />
+          <Property Name="Value" Type="nchar" MaxLength="30" Nullable="false" />
+        </EntityType>
+        <EntityType Name="FieldOfItemInStock">
+          <Key>
+            <PropertyRef Name="FieldOfItemInStockId" />
+          </Key>
+          <Property Name="FieldOfItemInStockId" Type="int" Nullable="false" />
+          <Property Name="FieldOfItemId" Type="int" Nullable="false" />
+          <Property Name="ItemInStockId" Type="int" Nullable="false" />
+          <Property Name="Value" Type="nchar" MaxLength="30" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Item">
+          <Key>
+            <PropertyRef Name="ItemId" />
+          </Key>
+          <Property Name="ItemId" Type="int" Nullable="false" />
+          <Property Name="CategoryId" Type="int" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="30" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ItemInStock">
+          <Key>
+            <PropertyRef Name="ItemInStockId" />
+          </Key>
+          <Property Name="ItemInStockId" Type="int" Nullable="false" />
+          <Property Name="ItemId" Type="int" Nullable="false" />
+          <Property Name="ClientId" Type="int" Nullable="false" />
+          <Property Name="Buying" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="KindOfField">
+          <Key>
+            <PropertyRef Name="KindOfFieldId" />
+          </Key>
+          <Property Name="KindOfFieldId" Type="int" Nullable="false" />
+          <Property Name="Name" Type="nchar" MaxLength="30" Nullable="false" />
+        </EntityType>
+        <EntityType Name="PartOfItem">
+          <Key>
+            <PropertyRef Name="PartOfItemId" />
+          </Key>
+          <Property Name="PartOfItemId" Type="int" Nullable="false" />
+          <Property Name="ItemId" Type="int" Nullable="false" />
+          <Property Name="Name" Type="nchar" MaxLength="30" Nullable="false" />
+        </EntityType>
+        <Association Name="FK__Category__BasicC__38996AB5">
+          <End Role="Category" Type="Self.Category" Multiplicity="1" />
+          <End Role="Category1" Type="Self.Category" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Category">
+              <PropertyRef Name="CategoryId" />
+            </Principal>
+            <Dependent Role="Category1">
+              <PropertyRef Name="BasicCategoryId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Client__AddressI__37A5467C">
+          <End Role="Address" Type="Self.Address" Multiplicity="1" />
+          <End Role="Client" Type="Self.Client" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Address">
+              <PropertyRef Name="AddressId" />
+            </Principal>
+            <Dependent Role="Client">
+              <PropertyRef Name="AddressId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Descripti__Descr__5EBF139D">
+          <End Role="DescriptionOfItem" Type="Self.DescriptionOfItem" Multiplicity="1" />
+          <End Role="DescriptionOfItemInStock" Type="Self.DescriptionOfItemInStock" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DescriptionOfItem">
+              <PropertyRef Name="DescriptionOfItemId" />
+            </Principal>
+            <Dependent Role="DescriptionOfItemInStock">
+              <PropertyRef Name="DescriptionOfItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Descripti__ItemI__5CD6CB2B">
+          <End Role="Item" Type="Self.Item" Multiplicity="1" />
+          <End Role="DescriptionOfItem" Type="Self.DescriptionOfItem" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Item">
+              <PropertyRef Name="ItemId" />
+            </Principal>
+            <Dependent Role="DescriptionOfItem">
+              <PropertyRef Name="ItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Descripti__KindO__5DCAEF64">
+          <End Role="KindOfField" Type="Self.KindOfField" Multiplicity="1" />
+          <End Role="DescriptionOfItem" Type="Self.DescriptionOfItem" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="KindOfField">
+              <PropertyRef Name="KindOfFieldId" />
+            </Principal>
+            <Dependent Role="DescriptionOfItem">
+              <PropertyRef Name="KindOfFieldId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Item__CategoryId__36B12243">
+          <End Role="Category" Type="Self.Category" Multiplicity="1" />
+          <End Role="Item" Type="Self.Item" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Category">
+              <PropertyRef Name="CategoryId" />
+            </Principal>
+            <Dependent Role="Item">
+              <PropertyRef Name="CategoryId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__ItemInSto__Clien__6FE99F9F">
+          <End Role="Client" Type="Self.Client" Multiplicity="1" />
+          <End Role="ItemInStock" Type="Self.ItemInStock" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Client">
+              <PropertyRef Name="ClientId" />
+            </Principal>
+            <Dependent Role="ItemInStock">
+              <PropertyRef Name="ClientId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__ItemInSto__ItemI__70DDC3D8">
+          <End Role="Item" Type="Self.Item" Multiplicity="1" />
+          <End Role="ItemInStock" Type="Self.ItemInStock" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Item">
+              <PropertyRef Name="ItemId" />
+            </Principal>
+            <Dependent Role="ItemInStock">
+              <PropertyRef Name="ItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__PartOfIte__ItemI__398D8EEE">
+          <End Role="Item" Type="Self.Item" Multiplicity="1" />
+          <End Role="PartOfItem" Type="Self.PartOfItem" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Item">
+              <PropertyRef Name="ItemId" />
+            </Principal>
+            <Dependent Role="PartOfItem">
+              <PropertyRef Name="ItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DataModelStoreContainer">
+          <EntitySet Name="Address" EntityType="Self.Address" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Category" EntityType="Self.Category" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Client" EntityType="Self.Client" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="DescriptionOfItem" EntityType="Self.DescriptionOfItem" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="DescriptionOfItemInStock" EntityType="Self.DescriptionOfItemInStock" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="DetailingOfValues" EntityType="Self.DetailingOfValues" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="FieldOfItemInStock" EntityType="Self.FieldOfItemInStock" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Item" EntityType="Self.Item" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ItemInStock" EntityType="Self.ItemInStock" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="KindOfField" EntityType="Self.KindOfField" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="PartOfItem" EntityType="Self.PartOfItem" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__Category__BasicC__38996AB5" Association="Self.FK__Category__BasicC__38996AB5">
+            <End Role="Category" EntitySet="Category" />
+            <End Role="Category1" EntitySet="Category" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Client__AddressI__37A5467C" Association="Self.FK__Client__AddressI__37A5467C">
+            <End Role="Address" EntitySet="Address" />
+            <End Role="Client" EntitySet="Client" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Descripti__Descr__5EBF139D" Association="Self.FK__Descripti__Descr__5EBF139D">
+            <End Role="DescriptionOfItem" EntitySet="DescriptionOfItem" />
+            <End Role="DescriptionOfItemInStock" EntitySet="DescriptionOfItemInStock" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Descripti__ItemI__5CD6CB2B" Association="Self.FK__Descripti__ItemI__5CD6CB2B">
+            <End Role="Item" EntitySet="Item" />
+            <End Role="DescriptionOfItem" EntitySet="DescriptionOfItem" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Descripti__KindO__5DCAEF64" Association="Self.FK__Descripti__KindO__5DCAEF64">
+            <End Role="KindOfField" EntitySet="KindOfField" />
+            <End Role="DescriptionOfItem" EntitySet="DescriptionOfItem" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Item__CategoryId__36B12243" Association="Self.FK__Item__CategoryId__36B12243">
+            <End Role="Category" EntitySet="Category" />
+            <End Role="Item" EntitySet="Item" />
+          </AssociationSet>
+          <AssociationSet Name="FK__ItemInSto__Clien__6FE99F9F" Association="Self.FK__ItemInSto__Clien__6FE99F9F">
+            <End Role="Client" EntitySet="Client" />
+            <End Role="ItemInStock" EntitySet="ItemInStock" />
+          </AssociationSet>
+          <AssociationSet Name="FK__ItemInSto__ItemI__70DDC3D8" Association="Self.FK__ItemInSto__ItemI__70DDC3D8">
+            <End Role="Item" EntitySet="Item" />
+            <End Role="ItemInStock" EntitySet="ItemInStock" />
+          </AssociationSet>
+          <AssociationSet Name="FK__PartOfIte__ItemI__398D8EEE" Association="Self.FK__PartOfIte__ItemI__398D8EEE">
+            <End Role="Item" EntitySet="Item" />
+            <End Role="PartOfItem" EntitySet="PartOfItem" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DataModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Address">
+          <Key>
+            <PropertyRef Name="AddressId" />
+          </Key>
+          <Property Name="AddressId" Type="Int32" Nullable="false" />
+          <Property Name="Country" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="City" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="Neighbourhood" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="Street" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="HouseNumber" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Client" Relationship="Self.FK__Client__AddressI__37A5467C" FromRole="Address" ToRole="Client" />
+        </EntityType>
+        <EntityType Name="Category">
+          <Key>
+            <PropertyRef Name="CategoryId" />
+          </Key>
+          <Property Name="CategoryId" Type="Int32" Nullable="false" />
+          <Property Name="CategoryName" Type="String" MaxLength="30" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="BasicCategoryId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Category1" Relationship="Self.FK__Category__BasicC__38996AB5" FromRole="Category" ToRole="Category1" />
+          <NavigationProperty Name="Category2" Relationship="Self.FK__Category__BasicC__38996AB5" FromRole="Category1" ToRole="Category" />
+          <NavigationProperty Name="Item" Relationship="Self.FK__Item__CategoryId__36B12243" FromRole="Category" ToRole="Item" />
+        </EntityType>
+        <EntityType Name="Client">
+          <Key>
+            <PropertyRef Name="ClientId" />
+          </Key>
+          <Property Name="ClientId" Type="Int32" Nullable="false" />
+          <Property Name="Password" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="FirstName" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="LastName" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="AddressId" Type="Int32" Nullable="false" />
+          <Property Name="PhoneNumber" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="Email" Type="String" MaxLength="20" FixedLength="true" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Address" Relationship="Self.FK__Client__AddressI__37A5467C" FromRole="Client" ToRole="Address" />
+          <NavigationProperty Name="ItemInStock" Relationship="Self.FK__ItemInSto__Clien__6FE99F9F" FromRole="Client" ToRole="ItemInStock" />
+        </EntityType>
+        <EntityType Name="DescriptionOfItem">
+          <Key>
+            <PropertyRef Name="DescriptionOfItemId" />
+          </Key>
+          <Property Name="DescriptionOfItemId" Type="Int32" Nullable="false" />
+          <Property Name="ItemId" Type="Int32" Nullable="false" />
+          <Property Name="FieldName" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="KindOfFieldId" Type="Int32" Nullable="false" />
+          <Property Name="MainDescription" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="DescriptionOfItemInStock" Relationship="Self.FK__Descripti__Descr__5EBF139D" FromRole="DescriptionOfItem" ToRole="DescriptionOfItemInStock" />
+          <NavigationProperty Name="Item" Relationship="Self.FK__Descripti__ItemI__5CD6CB2B" FromRole="DescriptionOfItem" ToRole="Item" />
+          <NavigationProperty Name="KindOfField" Relationship="Self.FK__Descripti__KindO__5DCAEF64" FromRole="DescriptionOfItem" ToRole="KindOfField" />
+        </EntityType>
+        <EntityType Name="DescriptionOfItemInStock">
+          <Key>
+            <PropertyRef Name="DescriptionOfItemInStockId" />
+          </Key>
+          <Property Name="DescriptionOfItemInStockId" Type="Int32" Nullable="false" />
+          <Property Name="DescriptionOfItemId" Type="Int32" Nullable="false" />
+          <Property Name="ItemInStockId" Type="Int32" Nullable="false" />
+          <Property Name="Value" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="DescriptionOfItem" Relationship="Self.FK__Descripti__Descr__5EBF139D" FromRole="DescriptionOfItemInStock" ToRole="DescriptionOfItem" />
+        </EntityType>
+        <EntityType Name="DetailingOfValues">
+          <Key>
+            <PropertyRef Name="DetailingOfValuesId" />
+          </Key>
+          <Property Name="DetailingOfValuesId" Type="Int32" Nullable="false" />
+          <Property Name="DescriptionOfItemId" Type="Int32" Nullable="false" />
+          <Property Name="Value" Type="String" MaxLength="30" FixedLength="true" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityType Name="FieldOfItemInStock">
+          <Key>
+            <PropertyRef Name="FieldOfItemInStockId" />
+          </Key>
+          <Property Name="FieldOfItemInStockId" Type="Int32" Nullable="false" />
+          <Property Name="FieldOfItemId" Type="Int32" Nullable="false" />
+          <Property Name="ItemInStockId" Type="Int32" Nullable="false" />
+          <Property Name="Value" Type="String" MaxLength="30" FixedLength="true" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Item">
+          <Key>
+            <PropertyRef Name="ItemId" />
+          </Key>
+          <Property Name="ItemId" Type="Int32" Nullable="false" />
+          <Property Name="CategoryId" Type="Int32" Nullable="false" />
+          <Property Name="Name" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Category" Relationship="Self.FK__Item__CategoryId__36B12243" FromRole="Item" ToRole="Category" />
+          <NavigationProperty Name="DescriptionOfItem" Relationship="Self.FK__Descripti__ItemI__5CD6CB2B" FromRole="Item" ToRole="DescriptionOfItem" />
+          <NavigationProperty Name="ItemInStock" Relationship="Self.FK__ItemInSto__ItemI__70DDC3D8" FromRole="Item" ToRole="ItemInStock" />
+          <NavigationProperty Name="PartOfItem" Relationship="Self.FK__PartOfIte__ItemI__398D8EEE" FromRole="Item" ToRole="PartOfItem" />
+        </EntityType>
+        <EntityType Name="ItemInStock">
+          <Key>
+            <PropertyRef Name="ItemInStockId" />
+          </Key>
+          <Property Name="ItemInStockId" Type="Int32" Nullable="false" />
+          <Property Name="ItemId" Type="Int32" Nullable="false" />
+          <Property Name="ClientId" Type="Int32" Nullable="false" />
+          <Property Name="Buying" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Client" Relationship="Self.FK__ItemInSto__Clien__6FE99F9F" FromRole="ItemInStock" ToRole="Client" />
+          <NavigationProperty Name="Item" Relationship="Self.FK__ItemInSto__ItemI__70DDC3D8" FromRole="ItemInStock" ToRole="Item" />
+        </EntityType>
+        <EntityType Name="KindOfField">
+          <Key>
+            <PropertyRef Name="KindOfFieldId" />
+          </Key>
+          <Property Name="KindOfFieldId" Type="Int32" Nullable="false" />
+          <Property Name="Name" Type="String" MaxLength="30" FixedLength="true" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="DescriptionOfItem" Relationship="Self.FK__Descripti__KindO__5DCAEF64" FromRole="KindOfField" ToRole="DescriptionOfItem" />
+        </EntityType>
+        <EntityType Name="PartOfItem">
+          <Key>
+            <PropertyRef Name="PartOfItemId" />
+          </Key>
+          <Property Name="PartOfItemId" Type="Int32" Nullable="false" />
+          <Property Name="ItemId" Type="Int32" Nullable="false" />
+          <Property Name="Name" Type="String" MaxLength="30" FixedLength="true" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Item" Relationship="Self.FK__PartOfIte__ItemI__398D8EEE" FromRole="PartOfItem" ToRole="Item" />
+        </EntityType>
+        <Association Name="FK__Client__AddressI__37A5467C">
+          <End Role="Address" Type="Self.Address" Multiplicity="1" />
+          <End Role="Client" Type="Self.Client" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Address">
+              <PropertyRef Name="AddressId" />
+            </Principal>
+            <Dependent Role="Client">
+              <PropertyRef Name="AddressId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Category__BasicC__38996AB5">
+          <End Role="Category" Type="Self.Category" Multiplicity="1" />
+          <End Role="Category1" Type="Self.Category" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Category">
+              <PropertyRef Name="CategoryId" />
+            </Principal>
+            <Dependent Role="Category1">
+              <PropertyRef Name="BasicCategoryId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Item__CategoryId__36B12243">
+          <End Role="Category" Type="Self.Category" Multiplicity="1" />
+          <End Role="Item" Type="Self.Item" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Category">
+              <PropertyRef Name="CategoryId" />
+            </Principal>
+            <Dependent Role="Item">
+              <PropertyRef Name="CategoryId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__ItemInSto__Clien__6FE99F9F">
+          <End Role="Client" Type="Self.Client" Multiplicity="1" />
+          <End Role="ItemInStock" Type="Self.ItemInStock" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Client">
+              <PropertyRef Name="ClientId" />
+            </Principal>
+            <Dependent Role="ItemInStock">
+              <PropertyRef Name="ClientId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Descripti__Descr__5EBF139D">
+          <End Role="DescriptionOfItem" Type="Self.DescriptionOfItem" Multiplicity="1" />
+          <End Role="DescriptionOfItemInStock" Type="Self.DescriptionOfItemInStock" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DescriptionOfItem">
+              <PropertyRef Name="DescriptionOfItemId" />
+            </Principal>
+            <Dependent Role="DescriptionOfItemInStock">
+              <PropertyRef Name="DescriptionOfItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Descripti__ItemI__5CD6CB2B">
+          <End Role="Item" Type="Self.Item" Multiplicity="1" />
+          <End Role="DescriptionOfItem" Type="Self.DescriptionOfItem" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Item">
+              <PropertyRef Name="ItemId" />
+            </Principal>
+            <Dependent Role="DescriptionOfItem">
+              <PropertyRef Name="ItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Descripti__KindO__5DCAEF64">
+          <End Role="KindOfField" Type="Self.KindOfField" Multiplicity="1" />
+          <End Role="DescriptionOfItem" Type="Self.DescriptionOfItem" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="KindOfField">
+              <PropertyRef Name="KindOfFieldId" />
+            </Principal>
+            <Dependent Role="DescriptionOfItem">
+              <PropertyRef Name="KindOfFieldId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__ItemInSto__ItemI__70DDC3D8">
+          <End Role="Item" Type="Self.Item" Multiplicity="1" />
+          <End Role="ItemInStock" Type="Self.ItemInStock" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Item">
+              <PropertyRef Name="ItemId" />
+            </Principal>
+            <Dependent Role="ItemInStock">
+              <PropertyRef Name="ItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__PartOfIte__ItemI__398D8EEE">
+          <End Role="Item" Type="Self.Item" Multiplicity="1" />
+          <End Role="PartOfItem" Type="Self.PartOfItem" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Item">
+              <PropertyRef Name="ItemId" />
+            </Principal>
+            <Dependent Role="PartOfItem">
+              <PropertyRef Name="ItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DataEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Address" EntityType="Self.Address" />
+          <EntitySet Name="Category" EntityType="Self.Category" />
+          <EntitySet Name="Client" EntityType="Self.Client" />
+          <EntitySet Name="DescriptionOfItem" EntityType="Self.DescriptionOfItem" />
+          <EntitySet Name="DescriptionOfItemInStock" EntityType="Self.DescriptionOfItemInStock" />
+          <EntitySet Name="DetailingOfValues" EntityType="Self.DetailingOfValues" />
+          <EntitySet Name="FieldOfItemInStock" EntityType="Self.FieldOfItemInStock" />
+          <EntitySet Name="Item" EntityType="Self.Item" />
+          <EntitySet Name="ItemInStock" EntityType="Self.ItemInStock" />
+          <EntitySet Name="KindOfField" EntityType="Self.KindOfField" />
+          <EntitySet Name="PartOfItem" EntityType="Self.PartOfItem" />
+          <AssociationSet Name="FK__Client__AddressI__37A5467C" Association="Self.FK__Client__AddressI__37A5467C">
+            <End Role="Address" EntitySet="Address" />
+            <End Role="Client" EntitySet="Client" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Category__BasicC__38996AB5" Association="Self.FK__Category__BasicC__38996AB5">
+            <End Role="Category" EntitySet="Category" />
+            <End Role="Category1" EntitySet="Category" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Item__CategoryId__36B12243" Association="Self.FK__Item__CategoryId__36B12243">
+            <End Role="Category" EntitySet="Category" />
+            <End Role="Item" EntitySet="Item" />
+          </AssociationSet>
+          <AssociationSet Name="FK__ItemInSto__Clien__6FE99F9F" Association="Self.FK__ItemInSto__Clien__6FE99F9F">
+            <End Role="Client" EntitySet="Client" />
+            <End Role="ItemInStock" EntitySet="ItemInStock" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Descripti__Descr__5EBF139D" Association="Self.FK__Descripti__Descr__5EBF139D">
+            <End Role="DescriptionOfItem" EntitySet="DescriptionOfItem" />
+            <End Role="DescriptionOfItemInStock" EntitySet="DescriptionOfItemInStock" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Descripti__ItemI__5CD6CB2B" Association="Self.FK__Descripti__ItemI__5CD6CB2B">
+            <End Role="Item" EntitySet="Item" />
+            <End Role="DescriptionOfItem" EntitySet="DescriptionOfItem" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Descripti__KindO__5DCAEF64" Association="Self.FK__Descripti__KindO__5DCAEF64">
+            <End Role="KindOfField" EntitySet="KindOfField" />
+            <End Role="DescriptionOfItem" EntitySet="DescriptionOfItem" />
+          </AssociationSet>
+          <AssociationSet Name="FK__ItemInSto__ItemI__70DDC3D8" Association="Self.FK__ItemInSto__ItemI__70DDC3D8">
+            <End Role="Item" EntitySet="Item" />
+            <End Role="ItemInStock" EntitySet="ItemInStock" />
+          </AssociationSet>
+          <AssociationSet Name="FK__PartOfIte__ItemI__398D8EEE" Association="Self.FK__PartOfIte__ItemI__398D8EEE">
+            <End Role="Item" EntitySet="Item" />
+            <End Role="PartOfItem" EntitySet="PartOfItem" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DataModelStoreContainer" CdmEntityContainer="DataEntities">
+          <EntitySetMapping Name="Address">
+            <EntityTypeMapping TypeName="DataModel.Address">
+              <MappingFragment StoreEntitySet="Address">
+                <ScalarProperty Name="AddressId" ColumnName="AddressId" />
+                <ScalarProperty Name="Country" ColumnName="Country" />
+                <ScalarProperty Name="City" ColumnName="City" />
+                <ScalarProperty Name="Neighbourhood" ColumnName="Neighbourhood" />
+                <ScalarProperty Name="Street" ColumnName="Street" />
+                <ScalarProperty Name="HouseNumber" ColumnName="HouseNumber" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Category">
+            <EntityTypeMapping TypeName="DataModel.Category">
+              <MappingFragment StoreEntitySet="Category">
+                <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+                <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+                <ScalarProperty Name="BasicCategoryId" ColumnName="BasicCategoryId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Client">
+            <EntityTypeMapping TypeName="DataModel.Client">
+              <MappingFragment StoreEntitySet="Client">
+                <ScalarProperty Name="ClientId" ColumnName="ClientId" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="LastName" ColumnName="LastName" />
+                <ScalarProperty Name="AddressId" ColumnName="AddressId" />
+                <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="DescriptionOfItem">
+            <EntityTypeMapping TypeName="DataModel.DescriptionOfItem">
+              <MappingFragment StoreEntitySet="DescriptionOfItem">
+                <ScalarProperty Name="DescriptionOfItemId" ColumnName="DescriptionOfItemId" />
+                <ScalarProperty Name="ItemId" ColumnName="ItemId" />
+                <ScalarProperty Name="FieldName" ColumnName="FieldName" />
+                <ScalarProperty Name="KindOfFieldId" ColumnName="KindOfFieldId" />
+                <ScalarProperty Name="MainDescription" ColumnName="MainDescription" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="DescriptionOfItemInStock">
+            <EntityTypeMapping TypeName="DataModel.DescriptionOfItemInStock">
+              <MappingFragment StoreEntitySet="DescriptionOfItemInStock">
+                <ScalarProperty Name="DescriptionOfItemInStockId" ColumnName="DescriptionOfItemInStockId" />
+                <ScalarProperty Name="DescriptionOfItemId" ColumnName="DescriptionOfItemId" />
+                <ScalarProperty Name="ItemInStockId" ColumnName="ItemInStockId" />
+                <ScalarProperty Name="Value" ColumnName="Value" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="DetailingOfValues">
+            <EntityTypeMapping TypeName="DataModel.DetailingOfValues">
+              <MappingFragment StoreEntitySet="DetailingOfValues">
+                <ScalarProperty Name="DetailingOfValuesId" ColumnName="DetailingOfValuesId" />
+                <ScalarProperty Name="DescriptionOfItemId" ColumnName="DescriptionOfItemId" />
+                <ScalarProperty Name="Value" ColumnName="Value" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="FieldOfItemInStock">
+            <EntityTypeMapping TypeName="DataModel.FieldOfItemInStock">
+              <MappingFragment StoreEntitySet="FieldOfItemInStock">
+                <ScalarProperty Name="FieldOfItemInStockId" ColumnName="FieldOfItemInStockId" />
+                <ScalarProperty Name="FieldOfItemId" ColumnName="FieldOfItemId" />
+                <ScalarProperty Name="ItemInStockId" ColumnName="ItemInStockId" />
+                <ScalarProperty Name="Value" ColumnName="Value" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Item">
+            <EntityTypeMapping TypeName="DataModel.Item">
+              <MappingFragment StoreEntitySet="Item">
+                <ScalarProperty Name="ItemId" ColumnName="ItemId" />
+                <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ItemInStock">
+            <EntityTypeMapping TypeName="DataModel.ItemInStock">
+              <MappingFragment StoreEntitySet="ItemInStock">
+                <ScalarProperty Name="ItemInStockId" ColumnName="ItemInStockId" />
+                <ScalarProperty Name="ItemId" ColumnName="ItemId" />
+                <ScalarProperty Name="ClientId" ColumnName="ClientId" />
+                <ScalarProperty Name="Buying" ColumnName="Buying" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="KindOfField">
+            <EntityTypeMapping TypeName="DataModel.KindOfField">
+              <MappingFragment StoreEntitySet="KindOfField">
+                <ScalarProperty Name="KindOfFieldId" ColumnName="KindOfFieldId" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="PartOfItem">
+            <EntityTypeMapping TypeName="DataModel.PartOfItem">
+              <MappingFragment StoreEntitySet="PartOfItem">
+                <ScalarProperty Name="PartOfItemId" ColumnName="PartOfItemId" />
+                <ScalarProperty Name="ItemId" ColumnName="ItemId" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

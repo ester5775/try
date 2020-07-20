@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="23bd3de1ca474589adf284b0ebb96c4a" Name="Diagram1">
+        <EntityTypeShape EntityType="DataModel.Address" Width="1.5" PointX="1.5" PointY="14.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.Category" Width="1.5" PointX="1.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.Client" Width="1.5" PointX="3.75" PointY="14.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.DescriptionOfItem" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.DescriptionOfItemInStock" Width="1.5" PointX="5.25" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.DetailingOfValues" Width="1.5" PointX="3.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.FieldOfItemInStock" Width="1.5" PointX="5.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.Item" Width="1.5" PointX="0.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.ItemInStock" Width="1.5" PointX="6" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.KindOfField" Width="1.5" PointX="0.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataModel.PartOfItem" Width="1.5" PointX="3" PointY="11.125" IsExpanded="true" />
+        <AssociationConnector Association="DataModel.FK__Client__AddressI__37A5467C" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK__Category__BasicC__38996AB5" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK__Item__CategoryId__36B12243" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK__ItemInSto__Clien__6FE99F9F" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK__Descripti__Descr__5EBF139D" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK__Descripti__ItemI__5CD6CB2B" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK__Descripti__KindO__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK__ItemInSto__ItemI__70DDC3D8" ManuallyRouted="false" />
+        <AssociationConnector Association="DataModel.FK__PartOfIte__ItemI__398D8EEE" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

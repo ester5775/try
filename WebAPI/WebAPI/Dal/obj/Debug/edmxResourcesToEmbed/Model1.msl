@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DataModelStoreContainer" CdmEntityContainer="DataEntities">
+    <EntitySetMapping Name="Address">
+      <EntityTypeMapping TypeName="DataModel.Address">
+        <MappingFragment StoreEntitySet="Address">
+          <ScalarProperty Name="AddressId" ColumnName="AddressId" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Neighbourhood" ColumnName="Neighbourhood" />
+          <ScalarProperty Name="Street" ColumnName="Street" />
+          <ScalarProperty Name="HouseNumber" ColumnName="HouseNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Category">
+      <EntityTypeMapping TypeName="DataModel.Category">
+        <MappingFragment StoreEntitySet="Category">
+          <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+          <ScalarProperty Name="BasicCategoryId" ColumnName="BasicCategoryId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Client">
+      <EntityTypeMapping TypeName="DataModel.Client">
+        <MappingFragment StoreEntitySet="Client">
+          <ScalarProperty Name="ClientId" ColumnName="ClientId" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="AddressId" ColumnName="AddressId" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DescriptionOfItem">
+      <EntityTypeMapping TypeName="DataModel.DescriptionOfItem">
+        <MappingFragment StoreEntitySet="DescriptionOfItem">
+          <ScalarProperty Name="DescriptionOfItemId" ColumnName="DescriptionOfItemId" />
+          <ScalarProperty Name="ItemId" ColumnName="ItemId" />
+          <ScalarProperty Name="FieldName" ColumnName="FieldName" />
+          <ScalarProperty Name="KindOfFieldId" ColumnName="KindOfFieldId" />
+          <ScalarProperty Name="MainDescription" ColumnName="MainDescription" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DescriptionOfItemInStock">
+      <EntityTypeMapping TypeName="DataModel.DescriptionOfItemInStock">
+        <MappingFragment StoreEntitySet="DescriptionOfItemInStock">
+          <ScalarProperty Name="DescriptionOfItemInStockId" ColumnName="DescriptionOfItemInStockId" />
+          <ScalarProperty Name="DescriptionOfItemId" ColumnName="DescriptionOfItemId" />
+          <ScalarProperty Name="ItemInStockId" ColumnName="ItemInStockId" />
+          <ScalarProperty Name="Value" ColumnName="Value" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DetailingOfValues">
+      <EntityTypeMapping TypeName="DataModel.DetailingOfValues">
+        <MappingFragment StoreEntitySet="DetailingOfValues">
+          <ScalarProperty Name="DetailingOfValuesId" ColumnName="DetailingOfValuesId" />
+          <ScalarProperty Name="DescriptionOfItemId" ColumnName="DescriptionOfItemId" />
+          <ScalarProperty Name="Value" ColumnName="Value" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FieldOfItemInStock">
+      <EntityTypeMapping TypeName="DataModel.FieldOfItemInStock">
+        <MappingFragment StoreEntitySet="FieldOfItemInStock">
+          <ScalarProperty Name="FieldOfItemInStockId" ColumnName="FieldOfItemInStockId" />
+          <ScalarProperty Name="FieldOfItemId" ColumnName="FieldOfItemId" />
+          <ScalarProperty Name="ItemInStockId" ColumnName="ItemInStockId" />
+          <ScalarProperty Name="Value" ColumnName="Value" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Item">
+      <EntityTypeMapping TypeName="DataModel.Item">
+        <MappingFragment StoreEntitySet="Item">
+          <ScalarProperty Name="ItemId" ColumnName="ItemId" />
+          <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ItemInStock">
+      <EntityTypeMapping TypeName="DataModel.ItemInStock">
+        <MappingFragment StoreEntitySet="ItemInStock">
+          <ScalarProperty Name="ItemInStockId" ColumnName="ItemInStockId" />
+          <ScalarProperty Name="ItemId" ColumnName="ItemId" />
+          <ScalarProperty Name="ClientId" ColumnName="ClientId" />
+          <ScalarProperty Name="Buying" ColumnName="Buying" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KindOfField">
+      <EntityTypeMapping TypeName="DataModel.KindOfField">
+        <MappingFragment StoreEntitySet="KindOfField">
+          <ScalarProperty Name="KindOfFieldId" ColumnName="KindOfFieldId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PartOfItem">
+      <EntityTypeMapping TypeName="DataModel.PartOfItem">
+        <MappingFragment StoreEntitySet="PartOfItem">
+          <ScalarProperty Name="PartOfItemId" ColumnName="PartOfItemId" />
+          <ScalarProperty Name="ItemId" ColumnName="ItemId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

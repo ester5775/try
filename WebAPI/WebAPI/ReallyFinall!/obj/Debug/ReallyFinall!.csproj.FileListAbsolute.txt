@@ -1,0 +1,862 @@
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\ReallyFinall!.dll.config
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\ReallyFinall!.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\ReallyFinall!.pdb
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\csc.exe
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\csc.exe.config
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\csc.rsp
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\csi.exe
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\csi.exe.config
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\csi.rsp
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.AppContext.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Console.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.Compression.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Net.Http.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Net.Sockets.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.ValueTuple.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.XPath.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\vbc.exe
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\vbc.exe.config
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\vbc.rsp
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\VBCSCompiler.exe
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\Antlr3.Runtime.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\Dal.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\EntityFramework.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\EntityFramework.SqlServer.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\Newtonsoft.Json.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Net.Http.Formatting.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.Helpers.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.WebHost.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.Mvc.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.Optimization.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.Razor.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Deployment.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Razor.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\WebGrease.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\Dal.pdb
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\Dal.dll.config
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\EntityFramework.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\EntityFramework.SqlServer.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\Newtonsoft.Json.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Net.Http.Formatting.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.Helpers.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.WebHost.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.Mvc.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.Optimization.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.Razor.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Deployment.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Razor.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\Antlr3.Runtime.pdb
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.csprojAssemblyReference.cache
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.csproj.CoreCompileInputs.cache
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.csproj.CopyComplete
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.pdb
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\Bll.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\Bll.pdb
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\DTO.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\ReallyFinall!\bin\DTO.pdb
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\ReallyFinall!.dll.config
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\ReallyFinall!.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\ReallyFinall!.pdb
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\csc.exe
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\csc.exe.config
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\csc.rsp
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\csi.exe
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\csi.exe.config
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\csi.rsp
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.AppContext.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Console.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.Compression.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Net.Http.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Net.Sockets.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.ValueTuple.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.XPath.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\vbc.exe
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\vbc.exe.config
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\vbc.rsp
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\VBCSCompiler.exe
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\Antlr3.Runtime.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\Bll.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\Dal.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\DTO.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\Newtonsoft.Json.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Net.Http.Formatting.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.Helpers.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.WebHost.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.Mvc.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.Optimization.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.Razor.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Deployment.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Razor.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\WebGrease.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\Bll.pdb
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\Dal.pdb
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\Dal.dll.config
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\DTO.pdb
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\EntityFramework.xml
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\EntityFramework.SqlServer.xml
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\Newtonsoft.Json.xml
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Net.Http.Formatting.xml
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.Helpers.xml
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.xml
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.WebHost.xml
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.Mvc.xml
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.Optimization.xml
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.Razor.xml
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.xml
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Deployment.xml
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Razor.xml
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\Antlr3.Runtime.pdb
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.csprojAssemblyReference.cache
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.csproj.CoreCompileInputs.cache
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.csproj.CopyComplete
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.dll
+C:\Users\רות\Desktop\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\ReallyFinall!.dll.config
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\ReallyFinall!.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\ReallyFinall!.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\csc.exe
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\csc.exe.config
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\csc.rsp
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\csi.exe
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\csi.exe.config
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\csi.rsp
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.Managed.Core.targets
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.AppContext.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Collections.Immutable.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Console.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Globalization.Calendars.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.Compression.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.FileSystem.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Net.Http.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Net.Sockets.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Reflection.Metadata.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.ValueTuple.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.XmlDocument.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.XPath.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\vbc.exe
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\vbc.exe.config
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\vbc.rsp
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\VBCSCompiler.exe
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\roslyn\VBCSCompiler.exe.config
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\Antlr3.Runtime.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\Bll.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\Dal.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\DTO.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\EntityFramework.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\EntityFramework.SqlServer.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\Microsoft.Web.Infrastructure.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\Newtonsoft.Json.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Net.Http.Formatting.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.Helpers.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.WebHost.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.Mvc.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.Optimization.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.Razor.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Deployment.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Razor.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\WebGrease.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\Bll.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\Dal.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\Dal.dll.config
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\EntityFramework.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\EntityFramework.SqlServer.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\Newtonsoft.Json.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Net.Http.Formatting.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.Helpers.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.WebHost.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.Mvc.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.Optimization.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.Razor.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Deployment.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Razor.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\Antlr3.Runtime.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\Data.mdf
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\ReallyFinall!\bin\Data_log.ldf
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\ReallyFinall!.dll.config
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\ReallyFinall!.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\ReallyFinall!.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\csc.exe
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\csc.exe.config
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\csc.rsp
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\csi.exe
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\csi.exe.config
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\csi.rsp
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.Managed.Core.targets
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.AppContext.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Collections.Immutable.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Console.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Globalization.Calendars.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.Compression.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.FileSystem.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Net.Http.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Net.Sockets.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Reflection.Metadata.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.ValueTuple.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.XmlDocument.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.XPath.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\vbc.exe
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\vbc.exe.config
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\vbc.rsp
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\VBCSCompiler.exe
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\VBCSCompiler.exe.config
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Antlr3.Runtime.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Bll.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Dal.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\DTO.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\EntityFramework.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\EntityFramework.SqlServer.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Microsoft.Web.Infrastructure.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Newtonsoft.Json.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Net.Http.Formatting.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Helpers.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.WebHost.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Mvc.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Optimization.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Razor.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Deployment.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Razor.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\WebGrease.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Bll.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Dal.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Dal.dll.config
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\EntityFramework.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\EntityFramework.SqlServer.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Newtonsoft.Json.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Net.Http.Formatting.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Helpers.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.WebHost.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Mvc.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Optimization.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Razor.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Deployment.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Razor.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Antlr3.Runtime.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.pdb
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\ReallyFinall!.dll.config
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\ReallyFinall!.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\ReallyFinall!.pdb
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\csc.exe
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\csc.exe.config
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\csc.rsp
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\csi.exe
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\csi.exe.config
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\csi.rsp
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.CSharp.Core.targets
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.Managed.Core.targets
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.AppContext.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Collections.Immutable.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Console.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Globalization.Calendars.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.Compression.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.FileSystem.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Net.Http.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Net.Sockets.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Reflection.Metadata.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.ValueTuple.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.ReaderWriter.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.XmlDocument.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.XPath.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\vbc.exe
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\vbc.exe.config
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\vbc.rsp
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\VBCSCompiler.exe
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\roslyn\VBCSCompiler.exe.config
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Antlr3.Runtime.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Bll.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Dal.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\DTO.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\EntityFramework.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\EntityFramework.SqlServer.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Microsoft.Web.Infrastructure.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Newtonsoft.Json.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Net.Http.Formatting.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Helpers.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.WebHost.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Mvc.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Optimization.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Razor.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Deployment.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Razor.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\WebGrease.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Bll.pdb
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Dal.pdb
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Dal.dll.config
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\DTO.pdb
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\EntityFramework.xml
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\EntityFramework.SqlServer.xml
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Newtonsoft.Json.xml
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Net.Http.Formatting.xml
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Helpers.xml
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.xml
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Http.WebHost.xml
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Mvc.xml
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Optimization.xml
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.Razor.xml
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.xml
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Deployment.xml
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\System.Web.WebPages.Razor.xml
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Antlr3.Runtime.pdb
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.csprojAssemblyReference.cache
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.csproj.CopyComplete
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\ReallyFinall!\obj\Debug\ReallyFinall!.pdb
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\ReallyFinall!.dll.config
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\ReallyFinall!.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\ReallyFinall!.pdb
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\csc.exe
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\csc.exe.config
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\csc.rsp
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\csi.exe
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\csi.exe.config
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\csi.rsp
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.AppContext.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Console.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.IO.Compression.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Net.Http.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Net.Sockets.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.ValueTuple.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Xml.XPath.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\vbc.exe
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\vbc.exe.config
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\vbc.rsp
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\VBCSCompiler.exe
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\Antlr3.Runtime.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\Bll.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\Dal.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\DTO.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\EntityFramework.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\EntityFramework.SqlServer.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\Newtonsoft.Json.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Net.Http.Formatting.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.Helpers.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.Http.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.Http.WebHost.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.Mvc.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.Optimization.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.Razor.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.WebPages.Deployment.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.WebPages.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.WebPages.Razor.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\WebGrease.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\Bll.pdb
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\Dal.pdb
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\Dal.dll.config
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\DTO.pdb
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\EntityFramework.xml
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\EntityFramework.SqlServer.xml
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\Newtonsoft.Json.xml
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Net.Http.Formatting.xml
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.Helpers.xml
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.Http.xml
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.Http.WebHost.xml
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.Mvc.xml
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.Optimization.xml
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.Razor.xml
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.WebPages.xml
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.WebPages.Deployment.xml
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\System.Web.WebPages.Razor.xml
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\Antlr3.Runtime.pdb
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\obj\Debug\ReallyFinall!.csprojAssemblyReference.cache
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\obj\Debug\ReallyFinall!.csproj.CoreCompileInputs.cache
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\obj\Debug\ReallyFinall!.csproj.CopyComplete
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\obj\Debug\ReallyFinall!.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\ReallyFinall!\obj\Debug\ReallyFinall!.pdb
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\ReallyFinall!.dll.config
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\ReallyFinall!.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\ReallyFinall!.pdb
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csc.exe
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csc.exe.config
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csc.rsp
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csi.exe
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csi.exe.config
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csi.rsp
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.AppContext.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Console.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.IO.Compression.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Net.Http.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Net.Sockets.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.ValueTuple.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Xml.XPath.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\vbc.exe
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\vbc.exe.config
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\vbc.rsp
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\VBCSCompiler.exe
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\Antlr3.Runtime.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\Bll.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\Dal.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\DTO.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\EntityFramework.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\EntityFramework.SqlServer.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\Newtonsoft.Json.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Net.Http.Formatting.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Helpers.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Http.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Http.WebHost.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Mvc.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Optimization.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Razor.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.Deployment.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.Razor.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\WebGrease.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\Bll.pdb
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\Dal.pdb
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\Dal.dll.config
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\DTO.pdb
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\EntityFramework.xml
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\EntityFramework.SqlServer.xml
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\Newtonsoft.Json.xml
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Net.Http.Formatting.xml
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Helpers.xml
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Http.xml
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Http.WebHost.xml
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Mvc.xml
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Optimization.xml
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Razor.xml
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.xml
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.Deployment.xml
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.Razor.xml
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\Antlr3.Runtime.pdb
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\obj\Debug\ReallyFinall!.csprojAssemblyReference.cache
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\obj\Debug\ReallyFinall!.csproj.CoreCompileInputs.cache
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\obj\Debug\ReallyFinall!.csproj.CopyComplete
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\obj\Debug\ReallyFinall!.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\ReallyFinall!\obj\Debug\ReallyFinall!.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\ReallyFinall!.dll.config
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\ReallyFinall!.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\ReallyFinall!.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csc.exe
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csc.exe.config
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csc.rsp
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csi.exe
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csi.exe.config
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csi.rsp
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.AppContext.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Console.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.IO.Compression.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Net.Http.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Net.Sockets.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.ValueTuple.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Xml.XPath.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\vbc.exe
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\vbc.exe.config
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\vbc.rsp
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\VBCSCompiler.exe
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Antlr3.Runtime.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Bll.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Dal.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\DTO.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\EntityFramework.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\EntityFramework.SqlServer.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Newtonsoft.Json.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Net.Http.Formatting.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Helpers.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Http.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Http.WebHost.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Mvc.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Optimization.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Razor.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.Deployment.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.Razor.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\WebGrease.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Bll.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Dal.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Dal.dll.config
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\DTO.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\EntityFramework.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\EntityFramework.SqlServer.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Newtonsoft.Json.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Net.Http.Formatting.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Helpers.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Http.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Http.WebHost.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Mvc.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Optimization.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Razor.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.Deployment.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.Razor.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Antlr3.Runtime.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\obj\Debug\ReallyFinall!.csprojAssemblyReference.cache
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\obj\Debug\ReallyFinall!.csproj.CoreCompileInputs.cache
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\obj\Debug\ReallyFinall!.csproj.CopyComplete
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\obj\Debug\ReallyFinall!.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\ReallyFinall!\obj\Debug\ReallyFinall!.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\ReallyFinall!.dll.config
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\ReallyFinall!.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\ReallyFinall!.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csc.exe
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csc.exe.config
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csc.rsp
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csi.exe
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csi.exe.config
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\csi.rsp
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.AppContext.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Console.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.IO.Compression.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Net.Http.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Net.Sockets.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.ValueTuple.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Xml.XPath.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\vbc.exe
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\vbc.exe.config
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\vbc.rsp
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\VBCSCompiler.exe
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Antlr3.Runtime.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Bll.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Dal.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\DTO.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\EntityFramework.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\EntityFramework.SqlServer.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Newtonsoft.Json.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Net.Http.Formatting.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Helpers.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Http.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Http.WebHost.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Mvc.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Optimization.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Razor.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.Deployment.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.Razor.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\WebGrease.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Bll.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Dal.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Dal.dll.config
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\DTO.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\EntityFramework.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\EntityFramework.SqlServer.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Newtonsoft.Json.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Net.Http.Formatting.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Helpers.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Http.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Http.WebHost.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Mvc.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Optimization.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.Razor.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.Deployment.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\System.Web.WebPages.Razor.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Antlr3.Runtime.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\obj\Debug\ReallyFinall!.csprojAssemblyReference.cache
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\obj\Debug\ReallyFinall!.csproj.CoreCompileInputs.cache
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\obj\Debug\ReallyFinall!.csproj.CopyComplete
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\obj\Debug\ReallyFinall!.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\ReallyFinall!\obj\Debug\ReallyFinall!.pdb

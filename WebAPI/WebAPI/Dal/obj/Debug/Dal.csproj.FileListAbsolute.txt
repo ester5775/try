@@ -1,0 +1,85 @@
+C:\Users\רות\Desktop\Projects\ReallyFinall!\Dal\bin\Debug\Dal.dll.config
+C:\Users\רות\Desktop\Projects\ReallyFinall!\Dal\bin\Debug\Dal.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\Dal\bin\Debug\Dal.pdb
+C:\Users\רות\Desktop\Projects\ReallyFinall!\Dal\bin\Debug\EntityFramework.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\Dal\bin\Debug\EntityFramework.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\רות\Desktop\Projects\ReallyFinall!\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\רות\Desktop\Projects\ReallyFinall!\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\רות\Desktop\Projects\ReallyFinall!\Dal\obj\Debug\Dal.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\Dal\obj\Debug\Dal.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\Dal\bin\Debug\Data.mdf
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\Dal\bin\Debug\Data_log.ldf
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\Dal\bin\Debug\Dal.dll.config
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\Dal\bin\Debug\Dal.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\Dal\bin\Debug\Dal.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\Dal\bin\Debug\EntityFramework.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\Dal\bin\Debug\EntityFramework.SqlServer.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\Dal\bin\Debug\EntityFramework.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\Dal\bin\Debug\EntityFramework.SqlServer.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\Dal\obj\Debug\Dal.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\Dal\obj\Debug\Dal.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\Dal\obj\Debug\Dal.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\Dal\bin\Debug\Dal.dll.config
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\Dal\bin\Debug\Dal.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\Dal\bin\Debug\Dal.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\Dal\bin\Debug\EntityFramework.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\Dal\bin\Debug\EntityFramework.SqlServer.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\Dal\bin\Debug\EntityFramework.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\Dal\bin\Debug\EntityFramework.SqlServer.xml
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\Dal\obj\Debug\Dal.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\Dal\obj\Debug\Dal.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\Dal\obj\Debug\Dal.pdb
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\Dal\bin\Debug\Dal.dll.config
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\Dal\bin\Debug\Dal.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\Dal\bin\Debug\Dal.pdb
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\Dal\bin\Debug\EntityFramework.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\Dal\bin\Debug\EntityFramework.xml
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\Dal\obj\Debug\Dal.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\Dal\obj\Debug\Dal.pdb
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\Dal\bin\Debug\Dal.dll.config
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\Dal\bin\Debug\Dal.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\Dal\bin\Debug\Dal.pdb
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\Dal\bin\Debug\EntityFramework.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\Dal\bin\Debug\EntityFramework.xml
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\Dal\obj\Debug\Dal.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\Dal\obj\Debug\Dal.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\Dal\bin\Debug\Dal.dll.config
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\Dal\bin\Debug\Dal.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\Dal\bin\Debug\Dal.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\Dal\bin\Debug\EntityFramework.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\Dal\bin\Debug\EntityFramework.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\Dal\obj\Debug\Dal.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\Dal\obj\Debug\Dal.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\Dal\bin\Debug\Dal.dll.config
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\Dal\bin\Debug\Dal.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\Dal\bin\Debug\Dal.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\Dal\bin\Debug\EntityFramework.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\Dal\bin\Debug\EntityFramework.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\Dal\obj\Debug\Dal.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\Dal\obj\Debug\Dal.pdb

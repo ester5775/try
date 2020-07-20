@@ -1,0 +1,82 @@
+C:\Users\רות\Desktop\Projects\ReallyFinall!\DTO\bin\Debug\DTO.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\DTO\bin\Debug\DTO.pdb
+C:\Users\רות\Desktop\Projects\ReallyFinall!\DTO\bin\Debug\Dal.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\DTO\bin\Debug\EntityFramework.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\DTO\bin\Debug\Dal.pdb
+C:\Users\רות\Desktop\Projects\ReallyFinall!\DTO\bin\Debug\Dal.dll.config
+C:\Users\רות\Desktop\Projects\ReallyFinall!\DTO\bin\Debug\EntityFramework.xml
+C:\Users\רות\Desktop\Projects\ReallyFinall!\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\רות\Desktop\Projects\ReallyFinall!\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\רות\Desktop\Projects\ReallyFinall!\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\רות\Desktop\Projects\ReallyFinall!\DTO\obj\Debug\DTO.dll
+C:\Users\רות\Desktop\Projects\ReallyFinall!\DTO\obj\Debug\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\DTO\bin\Debug\DTO.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\DTO\bin\Debug\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\DTO\bin\Debug\Dal.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\DTO\bin\Debug\Dal.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\DTO\bin\Debug\Dal.dll.config
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\DTO\obj\Debug\DTO.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\DTO\obj\Debug\DTO.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\DTO\obj\Debug\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\DTO\bin\Debug\Data.mdf
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\DTO\bin\Debug\Data_log.ldf
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\דבורי גלובינסקי\ReallyFinall!\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\bin\Debug\DTO.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\bin\Debug\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\bin\Debug\Dal.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\bin\Debug\Dal.pdb
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\bin\Debug\Dal.dll.config
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\obj\Debug\DTO.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\obj\Debug\DTO.dll
+F:\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\obj\Debug\DTO.pdb
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\bin\Debug\DTO.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\bin\Debug\DTO.pdb
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\bin\Debug\Dal.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\bin\Debug\Dal.pdb
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\bin\Debug\Dal.dll.config
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\obj\Debug\DTO.csproj.CopyComplete
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\obj\Debug\DTO.dll
+\\STDSRV\EngineersDocuments\תיקייה כללית\שנה ב תשפ\העברת חומרים בין בנות הקבוצה\Dvori gluvinski\ReallyFinall!\DTO\obj\Debug\DTO.pdb
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\DTO\bin\Debug\DTO.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\DTO\bin\Debug\DTO.pdb
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\DTO\bin\Debug\Dal.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\DTO\bin\Debug\Dal.pdb
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\DTO\bin\Debug\Dal.dll.config
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\DTO\obj\Debug\DTO.dll
+C:\Users\רות\Desktop\קול כשר\ReallyFinall!1\ReallyFinall!1\DTO\obj\Debug\DTO.pdb
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\DTO\bin\Debug\DTO.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\DTO\bin\Debug\DTO.pdb
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\DTO\bin\Debug\Dal.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\DTO\bin\Debug\Dal.pdb
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\DTO\bin\Debug\Dal.dll.config
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\DTO\obj\Debug\DTO.dll
+C:\Users\רות\Desktop\קול כשר\WebAPI\WebAPI\DTO\obj\Debug\DTO.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\DTO\bin\Debug\DTO.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\DTO\bin\Debug\DTO.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\DTO\bin\Debug\Dal.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\DTO\bin\Debug\Dal.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\DTO\bin\Debug\Dal.dll.config
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\DTO\obj\Debug\DTO.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\ower-project\WebAPI\WebAPI\DTO\obj\Debug\DTO.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\DTO\bin\Debug\DTO.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\DTO\bin\Debug\DTO.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\DTO\bin\Debug\Dal.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\DTO\bin\Debug\Dal.pdb
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\DTO\bin\Debug\Dal.dll.config
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\DTO\obj\Debug\DTO.dll
+C:\Users\רות\Desktop\Projects\github\ower-project\WebAPI\WebAPI\DTO\obj\Debug\DTO.pdb
